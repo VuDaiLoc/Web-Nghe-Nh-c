@@ -1,7 +1,0 @@
-{
-  "mongodb": {
-    "username": "",
-    "password": "",
-    "database": "musicapp"
-  }
-}
